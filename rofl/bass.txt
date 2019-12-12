@@ -1,14 +1,1 @@
-{
-  "args": {}, 
-  "headers": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3", 
-    "Accept-Encoding": "gzip, deflate", 
-    "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7", 
-    "Cache-Control": "max-age=0", 
-    "Host": "httpbin.org", 
-    "Upgrade-Insecure-Requests": "1", 
-    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-  }, 
-  "origin": "5, 5", 
-  "url": "https://get"
-}
+a3b00967d5c4ef1a2b4980183934d46ef36cee4b3dc1b2a6da1f820d63448390
