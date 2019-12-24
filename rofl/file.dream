@@ -1,6 +1,22 @@
 {
   "hash": 
   [
-    {"name": "bassdll", "hash5": "a3b00967d5c4ef1a2b4980183934d46ef36cee4b3dc1b2a6da1f820d63448390"}
+    {"name": "bassdll", "hash5": "a3b00967d5c4ef1a2b4980183934d46ef36cee4b3dc1b2a6da1f820d63448390"},
+    {"name": "dreamdriftasi", "hash5": "de2985719a15d7d0e785b3cf6c88c81cd9522656cd56aa62e420019bc532eda5"},
+    {"name": "eaxdll", "hash5": "b2da4f1e47ef8054c8390ead0b97d1fbb0c547245b79b8861cfa92ce9ef153fb"},
+    {"name": "gta_saexe", "hash5": "f6a436323f1d533900309764a572384bc7a5f55a8df5af15e9624976f2225192"},
+    {"name": "gtaweap3ttf", "hash5": "086dc4351bf1056d80a73168440ffe4261831bde992e5134902b9bae017dcbe9"},
+    {"name": "mousefixasi", "hash5": "aa320c6e934cc1719fbc229c9eacd3bf61b32226d4b20225a3327fe12d6ad72e"},
+    {"name": "normalmapfixasi", "hash5": "0123cbe205888fc183142ce722638c9c01afc61c3e8a6e820bde04288bec2d8b"},
+    {"name": "oggdll", "hash5": "4a4f65427e016b3c5ae0d2517a69db5f1cdc7a43d2c0a7957e8da5d6f378f063"},
+    {"name": "outfitfixasi", "hash5": "9afb7c9db7c1db7018e5ca1fa68971183ace8b4ffedf9354adc6a2e45a40c8a0"},
+    {"name": "rconexe", "hash5": "19f0d6d844f6f14856e3ea88853202b6310edc4726eb0c803710b67f641e596f"},
+    {"name": "sampdll", "hash5": "9c9b2cc31a4ced6967420b1880c096b5c4e7630e227aa379be4019c21b6fddc1"},
+    {"name": "sampsaa", "hash5": "596895c61a70f558a9ad6b9b44cb5c9ac4b374e95ee2266ac9c88585898f8ae7"},
+    {"name": "sampaux3ttf", "hash5": "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b"},
+    {"name": "streamini", "hash5": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148"},
+    {"name": "vorbisdll", "hash5": "fefda850b69e007fceba644483c7616bc07e9f177fc634fb74e114f0d15b0db0"},
+    {"name": "vorbisFiledll", "hash5": "c33e1bafafd441b42eaa6d322393b9dd700f8a9c13fb2e7780daf49707a46353"},
+    {"name": "vorbisHookeddll", "hash5": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f"}
   ]
 }
