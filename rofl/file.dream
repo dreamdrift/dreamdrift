@@ -18,10 +18,10 @@
     {"name": "vorbisdll", "hash5": "fefda850b69e007fceba644483c7616bc07e9f177fc634fb74e114f0d15b0db0"},
     {"name": "vorbisFiledll", "hash5": "c33e1bafafd441b42eaa6d322393b9dd700f8a9c13fb2e7780daf49707a46353"},
     {"name": "vorbisHookeddll", "hash5": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f"},
-    {"name": "american.gxt", "hash5": "08725985cc39bddc8d24b704c940e28c204d8186d8900fe39a7dc9de4b762194"},
-    {"name": "french.gxt", "hash5": "fc9df5d446c1429edf03072ab5c1bd86700525be5e130aad79da2f67997778b8"},
-    {"name": "german.gxt", "hash5": "1de67ca9fdf82a7907e69c1f6977971cd68e3c30849aa2d53115ca1047eb2e9e"},
-    {"name": "italian.gxt", "hash5": "a109b0cb3d2c7105428add8d3162cf9366f5724ebc6dbb5beff75bc1809eca7a"},
-    {"name": "spanish.gxt", "hash5": "b5eab83945334589b9c178a33a1a7c582f02fc9f8a8128d2368e19873b527c9a"}
+    {"name": "americangxt", "hash5": "08725985cc39bddc8d24b704c940e28c204d8186d8900fe39a7dc9de4b762194"},
+    {"name": "frenchgxt", "hash5": "fc9df5d446c1429edf03072ab5c1bd86700525be5e130aad79da2f67997778b8"},
+    {"name": "germangxt", "hash5": "1de67ca9fdf82a7907e69c1f6977971cd68e3c30849aa2d53115ca1047eb2e9e"},
+    {"name": "italiangxt", "hash5": "a109b0cb3d2c7105428add8d3162cf9366f5724ebc6dbb5beff75bc1809eca7a"},
+    {"name": "spanishgxt", "hash5": "b5eab83945334589b9c178a33a1a7c582f02fc9f8a8128d2368e19873b527c9a"}
   ]
 }
