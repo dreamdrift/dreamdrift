@@ -22,6 +22,7 @@
     {"name": "frenchgxt", "hash5": "fc9df5d446c1429edf03072ab5c1bd86700525be5e130aad79da2f67997778b8"},
     {"name": "germangxt", "hash5": "1de67ca9fdf82a7907e69c1f6977971cd68e3c30849aa2d53115ca1047eb2e9e"},
     {"name": "italiangxt", "hash5": "a109b0cb3d2c7105428add8d3162cf9366f5724ebc6dbb5beff75bc1809eca7a"},
-    {"name": "spanishgxt", "hash5": "b5eab83945334589b9c178a33a1a7c582f02fc9f8a8128d2368e19873b527c9a"}
+    {"name": "spanishgxt", "hash5": "b5eab83945334589b9c178a33a1a7c582f02fc9f8a8128d2368e19873b527c9a"},
+    {"name": "globalini", "hash5": "4996e00167f7ab9e42504cebc17e636c576c277a2b67b5a6f6e742335f132735"}
   ]
 }
